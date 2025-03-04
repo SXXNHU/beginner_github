@@ -1,4 +1,2 @@
-##BEGINNER's note
-#GITHUB
-<br>
+#BEGINNER's note
 trying to start using git - as a developer 
